@@ -1,0 +1,13 @@
+crewai
+playwright
+python-dotenv
+fastapi
+uvicorn
+pydantic
+supabase
+2captcha-python
+capmonstercloudclient
+langchain-community
+langchain
+aiohttp
+pytest
